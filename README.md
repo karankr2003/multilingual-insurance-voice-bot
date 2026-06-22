@@ -40,7 +40,7 @@ A production-ready voice bot for health insurance that supports 5 languages (Eng
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/karankr2003/multilingual-insurance-voice-bot.git
 cd multilingual-insurance-voice-bot
 ```
 
